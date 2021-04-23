@@ -20,7 +20,7 @@ void nb1(){
         if(cin.fail()){
             cin.clear();
             cin.ignore(numeric_limits<streamsize>::max(),'\n');
-            cout << "Hai Gan Luan Luan Da Ah!"<< endl;
+            cout << "Please enter an integer!"<< endl;
         }else if(guessnum == cnumber){
             cout <<"You Won!";
         }else if(guessnum > cnumber){
