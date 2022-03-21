@@ -1,1 +1,1 @@
-Yep, its a very basic game by just using c++
+Yep, its just a very basic game by using c++
